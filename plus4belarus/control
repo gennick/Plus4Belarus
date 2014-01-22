@@ -1,0 +1,10 @@
+Package: ru.gennick.plus4belarus
+Name: Plus4Belarus
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Fix Phone app '+' issue for Belarus users running iOS 7+
+Homepage: http://gennick.ru
+Maintainer: Yauhen Hatsukou <egatsukov@gmail.com>
+Author: Yauhen Hatsukou <egatsukov@gmail.com>
+Section: Tweaks
